@@ -1,0 +1,12 @@
+{
+  "name": "beijing-center-media-dashboard",
+  "version": "1.0.0",
+  "description": "北京中心媒体合作情况大屏（在线台账数据）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
